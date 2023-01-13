@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: whitesmoke;
+    padding: 50px;
+    
+
+}
+
+section {
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+#main{
+    /* place-content: center; */
+    justify-content: space-evenly;
+    display: flex;
+}
+
+img {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    
+}
+
+.paragraph{
+    background-color: tomato;
+    border-radius: 10px 10px 0 0;
+}
+
+    
